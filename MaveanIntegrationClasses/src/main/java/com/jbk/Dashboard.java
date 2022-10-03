@@ -36,5 +36,5 @@ public class Dashboard {
 	public void Delete(){
 		delete.click();
 	}
-
+ 
 }
